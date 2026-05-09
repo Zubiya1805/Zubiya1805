@@ -4,12 +4,6 @@
 
 </div>
 
-<div align="center">
-
-![typing](https://raw.githubusercontent.com/Zubiya1805/Zubiya1805/main/typing.svg)
-
-</div>
-
 ---
 
 <table width="100%">

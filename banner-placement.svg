@@ -1,0 +1,30 @@
+<svg width="900" height="140" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="140" fill="#0d1117"/>
+
+  <!-- sigmoid curve motif - logistic regression -->
+  <path d="M 650 120 Q 680 118 700 110 Q 730 95 750 70 Q 770 45 790 32 Q 810 22 840 20 Q 860 19 890 18"
+    fill="none" stroke="#bc8cff" stroke-width="1.5" opacity="0.25"/>
+  <!-- decision boundary -->
+  <line x1="750" y1="10" x2="750" y2="135" stroke="#bc8cff" stroke-width="1" stroke-dasharray="3,3" opacity="0.15"/>
+
+  <!-- dots on curve -->
+  <g fill="#bc8cff" opacity="0.3">
+    <circle cx="660" cy="118" r="2"/>
+    <circle cx="700" cy="108" r="2"/>
+    <circle cx="730" cy="90" r="2"/>
+    <circle cx="755" cy="68" r="2"/>
+    <circle cx="780" cy="38" r="2"/>
+    <circle cx="820" cy="22" r="2"/>
+    <circle cx="860" cy="19" r="2"/>
+  </g>
+
+  <rect x="44" y="30" width="3" height="80" fill="#bc8cff" rx="1"/>
+  <text x="62" y="50" font-family="'Courier New',monospace" font-size="10" fill="#bc8cff" letter-spacing="3">03 / MACHINE LEARNING</text>
+  <text x="60" y="88" font-family="'Courier New',monospace" font-size="34" font-weight="700" fill="#e6edf3">STUDENT PLACEMENT</text>
+  <text x="60" y="112" font-family="'Courier New',monospace" font-size="34" font-weight="700" fill="#e6edf3">PREDICTION</text>
+
+  <rect x="62" y="122" width="110" height="12" rx="6" fill="#271c3f"/>
+  <text x="117" y="131" font-family="'Courier New',monospace" font-size="8" fill="#bc8cff" text-anchor="middle">#logistic-regression</text>
+  <rect x="178" y="122" width="60" height="12" rx="6" fill="#271c3f"/>
+  <text x="208" y="131" font-family="'Courier New',monospace" font-size="8" fill="#bc8cff" text-anchor="middle">#python</text>
+</svg>
